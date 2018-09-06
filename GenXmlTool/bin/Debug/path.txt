@@ -1,0 +1,4 @@
+xlsxpath|../xlsx/
+sxmlpath|../server_xml/
+cxmlpath|../client/xml/
+ccspath|../client/configs/
